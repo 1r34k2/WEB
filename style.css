@@ -39,3 +39,44 @@ html{
 a{
     text-decoration: none;
 }
+.tabs{
+    margin-top: 20px; 
+}
+.tabs a{
+    color: black;
+}
+.tabs a span {
+    display: inline-block;
+    border-radius: 5px 5px 0 0;
+    width: 150px;
+    margin-right: 0px;
+    text-align: center;
+    background: rgb(194, 124, 34);
+    padding: 5px;
+    }
+.tabs a span.active {
+    background: rgb(255, 117, 4);
+}
+#pricelist h2{
+    color: chocolate;
+    margin-left: 20px;
+}
+#pricelist1{
+    border-top: 1px solid black;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+#pricelist h1{
+    margin-right: 200px;
+    color:chocolate;
+}
+#pricelist2{
+    border-top: 1px solid black;
+    display: flex;
+    border-bottom: 1px solid black;
+    justify-content:space-between;
+    align-items: center;
+}
+        
+    
