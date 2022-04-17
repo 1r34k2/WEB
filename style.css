@@ -11,7 +11,7 @@ html{
 .topnav{
     display: flex;
     align-items: center;
-    justify-content: space-evenly;
+    justify-content: space-around;
     overflow: hidden;
     margin-top: -25px;
 }
@@ -95,5 +95,14 @@ a{
     justify-content: center;
     align-items: center;
 }
+
+.about h3{
+    float: left;
+}
+.bloc{
+    float:right;
+}
+
+
         
     
