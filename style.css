@@ -1,0 +1,41 @@
+html{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#header h1{
+    text-align: center;
+    color:chocolate;
+}
+.topnav h3{
+    color: black;
+}
+.topnav{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    overflow: hidden;
+    margin-top: -25px;
+}
+.topnav a{
+    color: black;
+}
+.topnav a:hover {
+    color:brown;
+}
+#rectangle_button{
+    background-color:coral;
+    width: 140px;
+    height: 40px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#rectangle_button p{
+    color:  white;
+}
+a{
+    text-decoration: none;
+}
