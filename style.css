@@ -78,5 +78,22 @@ a{
     justify-content:space-between;
     align-items: center;
 }
+#stock_container{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#stock_container h3{
+    color:gray;
+    font-size:medium;
+}
+#rectangle_button_stock{
+    background-color:coral;
+    width: 140px;
+    height: 40px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
         
     
