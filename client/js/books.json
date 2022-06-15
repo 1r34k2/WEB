@@ -1,0 +1,18 @@
+[{
+  "_id": {
+    "$oid": "629639c4727bdf246a9b71df"
+  },
+  "name": "book",
+  "author": "author",
+  "img": "https://avatars.mds.yandex.net/i?id=9d66dc2fd0b5ba768d6860103f8fb646-5219777-images-thumbs&n=13",
+  "price": "300",
+  "category": "childrenBooks"
+},{
+  "_id": "54654",
+  "name": "ghhh",
+  "author": "Fsfsf",
+  "img": "sfdfs",
+  "price": "sfsfs",
+  "category": "fiction",
+  "__v": 0
+}]

@@ -9,9 +9,8 @@ const createFooter = () => {
         <p class="info">Телефон - +7(999)999-99-99</p>\
         <div class="footer-social-container">\
             <div>\
-                <a href="/policy" class="social-link">Политика конфиденциальности</a>\
-                <a href="/UA" class="social-link">Пользовательское соглашение</a>\
                 <a href="/index.html" class="social-link">На главную</a>\
+                <a href="/login.html" class="social-link">Для сотрудников</a>\
             </div>\
         </div>\
     ';
